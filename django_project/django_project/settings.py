@@ -83,9 +83,6 @@ DATABASES = {
         'NAME':'evaluacionbomberosentrga2.0',
         "USER":"root",
         "PASSWORD":"",
-        "HOST": 'localhost',
-        "PORT": '3306',
-        
     }
 }
 
