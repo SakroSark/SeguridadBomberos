@@ -81,7 +81,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME':'evaluacionbomberosentrga2.0',
-        "USER":"root",
+        "USER":"",
         "PASSWORD":"",
     }
 }
